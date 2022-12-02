@@ -1,8 +1,10 @@
 # COSC-490 - Adrian Holley, Demari Green, Errol Stoute
 
-# CODE SHOULD BE RUN ON - colab.research.google.com
+CODE SHOULD BE RUN ON - colab.research.google.com
 
 Download and upload the csv file in Google Colaboratory before running the 'Baltimore1Building1Data.ipynb' code.
+
+# Description of the code:
 
 The code we first started off with showing our dataset with all of the features. 
 Then we dropped the features we feel we didn't need, that repeated in other columns, or that wouldn't be able to show points on for example, the boxplot
