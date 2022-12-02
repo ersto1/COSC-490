@@ -2,7 +2,7 @@
 
 # CODE SHOULD BE RUN ON - colab.research.google.com
 
-Download the csv file before running the code.
+Download and upload the csv file in Google Colaboratory before running the code.
 
 The code we first started off with showing our dataset with all of the features. 
 Then we dropped the features we feel we didn't need, that repeated in other columns, or that wouldn't be able to show points on for example, the boxplot
